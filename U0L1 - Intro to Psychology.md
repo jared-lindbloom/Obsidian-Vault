@@ -9,7 +9,7 @@
 - [[Psychodynamic Perspective]]
 - [[Cognitive Perspective]]
 - [[Behavioral Perspective]]
-- [[Biological/Neuroscience Perspective]]
+- [[Neuroscience Perspective]]
 - [[Evolutionary Perspective]]
 - [[Humanistic Perspective]]
 - [[Social Cultural Perspective]]

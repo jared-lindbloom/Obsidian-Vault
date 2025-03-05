@@ -11,10 +11,14 @@
             "id": "faad9feb064eb9aa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Unit 1 - Comp Sci 250.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unit 1 - Comp Sci 250"
             }
           }
         ],
@@ -50,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "school",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -91,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Unit 1 - Comp Sci 250.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Unit 1 - Comp Sci 250"
             }
           },
           {
@@ -109,11 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Unit 1 - Comp Sci 250.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Unit 1 - Comp Sci 250"
             }
           },
           {
@@ -137,12 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Unit 1 - Comp Sci 250.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Unit 1 - Comp Sci 250"
             }
           }
         ]
@@ -164,11 +172,20 @@
   },
   "active": "faad9feb064eb9aa",
   "lastOpenFiles": [
+    "Comp Sci 250.md",
+    "School.md",
+    "AP Calculus.md",
+    "Unit 4 - AP Calc (Integration).md",
+    "Unit 3 - AP Calc (Applications of Derivatives).md",
+    "Unit 2 - AP Calc (Basic Derivatives).md",
+    "Unit 1 - AP Calc (Limits).md",
+    "Neuroscience Perspective.md",
+    "AP Psychology.md",
+    "U0L1 - Intro to Psychology.md",
+    "Psuedoscience/Pop Psychology.md",
+    "Biological.md",
     "Untitled.md",
     "Untitled.canvas",
-    "U0L1 - Intro to Psychology.md",
-    "AP Psychology.md",
-    "School.md",
     "U0L3 - Experiments.md",
     "U0L2 - Research Methods.md",
     "Experiments.md",
@@ -182,15 +199,6 @@
     "Meta-Analysis.md",
     "Self report bias.md",
     "Evolutionary Perspective.md",
-    "Behavioral Perspective.md",
-    "Social Desirability bias.md",
-    "Quantitative Data.md",
-    "Likert Scale.md",
-    "Qualitative Data.md",
-    "Experiment Research.md",
-    "Non-experiment Research.md",
-    "Hypothesis.md",
-    "falsifiable.md",
     "Psuedoscience",
     "Biological"
   ]
