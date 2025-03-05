@@ -13,12 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School.md",
+                "file": "Psychodynamic Perspective.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "School"
+              "title": "Psychodynamic Perspective"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f9e29d790b893b11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bdbbdd648249ba4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School.md",
+                "file": "Psychodynamic Perspective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for School"
+              "title": "Backlinks for Psychodynamic Perspective"
             }
           },
           {
@@ -113,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School.md",
+                "file": "Psychodynamic Perspective.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from School"
+              "title": "Outgoing links from Psychodynamic Perspective"
             }
           },
           {
@@ -142,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School.md",
+                "file": "Psychodynamic Perspective.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of School"
+              "title": "Outline of Psychodynamic Perspective"
             }
           }
         ]
@@ -170,6 +186,15 @@
   },
   "active": "d310a73154adcd93",
   "lastOpenFiles": [
-    "README.md"
+    "U0L1 - Intro to Psychology.md",
+    "Psychodynamic Perspective.md",
+    "AP Psychology.md",
+    "Unit 1 - AP Psychology.md",
+    "Unit 5 - AP Psychology.md",
+    "Unit 3 - AP Psychology.md",
+    "School.md",
+    "README.md",
+    "Comp Sci 250.md",
+    "AP Calculus.md"
   ]
 }
