@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f9e2db80007f725f",
+        "id": "b908b60c0f3cff44",
         "type": "tabs",
         "children": [
           {
-            "id": "d310a73154adcd93",
+            "id": "faad9feb064eb9aa",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -17,7 +17,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -161,10 +162,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d310a73154adcd93",
+  "active": "faad9feb064eb9aa",
   "lastOpenFiles": [
-    "Experiments.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "U0L1 - Intro to Psychology.md",
+    "AP Psychology.md",
+    "School.md",
+    "U0L3 - Experiments.md",
     "U0L2 - Research Methods.md",
+    "Experiments.md",
     "Correlational Study.md",
     "Correlation Coefficient.md",
     "Correlation Direction.md",
@@ -173,8 +180,6 @@
     "Cognitive biases.md",
     "Hawthorne effect.md",
     "Meta-Analysis.md",
-    "AP Psychology.md",
-    "U0L1 - Intro to Psychology.md",
     "Self report bias.md",
     "Evolutionary Perspective.md",
     "Behavioral Perspective.md",
@@ -186,9 +191,6 @@
     "Non-experiment Research.md",
     "Hypothesis.md",
     "falsifiable.md",
-    "empirical evidence.md",
-    "Psuedoscience-Pop Psychology.md",
-    "Psuedoscience/Pop Psychology.md",
     "Psuedoscience",
     "Biological"
   ]
