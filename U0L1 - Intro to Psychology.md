@@ -13,3 +13,13 @@
 - [[Evolutionary Perspective]]
 - [[Humanistic Perspective]]
 - [[Social Cultural Perspective]]
+
+**[[Psychologists]] vs [[Psychiatrists]]**
+
+[[APA]] - American Psychological Association
+
+**Challenges in studying human behavior**
+- Mixing up personal experience as proof
+- Defining and collecting data on human actions/feelings
+- Falling for [[Cognitive biases]] - common errors in our thinking
+

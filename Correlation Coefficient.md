@@ -1,0 +1,6 @@
+- The degree of relationship between variables
+- The slope of a best fit line
+- Will always fall between -1.00 and 1.00
+	- The closer to +- 1 the stronger the relationship
+	- Zero means there is no relationship
+	- The + and - indicate [[Correlation Direction]]

@@ -1,0 +1,5 @@
+- In-Depth research about a specific person or situation
+	- Useful when something is new, complex, or rare
+	- testing ground for new treatment, training programs
+- Limit
+	- may not apply to anyone else (no [[generalization]])

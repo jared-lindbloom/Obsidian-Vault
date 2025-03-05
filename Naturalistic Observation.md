@@ -1,0 +1,5 @@
+- Observation of subjects behavior in their typical environment
+	- Valuable when other methods are likely to be disruptive or misleading
+- Limits
+	- [[Hawthorne effect]]
+	- Research observation may be biased

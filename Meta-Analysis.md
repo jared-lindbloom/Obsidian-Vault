@@ -1,0 +1,6 @@
+- Statistical technique that combines and analyzes results of previous studies to draw conclusions
+	- Creates large amount of data that may show trends that a single study can not
+- Limits
+	- Difficult to conduct
+	- Poor quality studies could be include
+	- Selective reporting of outcomes
