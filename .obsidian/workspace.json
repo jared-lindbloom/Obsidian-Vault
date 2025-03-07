@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School.md",
+                "file": "3.7 Linear Approximation and Differentials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "School"
+              "title": "3.7 Linear Approximation and Differentials"
             }
           }
         ],
@@ -41,8 +41,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "byModifiedTime",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "School",
+                "query": "Tangent Line",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,11 +172,13 @@
   },
   "active": "faad9feb064eb9aa",
   "lastOpenFiles": [
-    "AP Calculus.md",
+    "3.7 Linear Approximation and Differentials.md",
     "Unit 2 - AP Calc (Basic Derivatives).md",
+    "Tangent Line.md",
     "School.md",
-    "3.1 Extrema on an Interval.md",
     "Unit 3 - AP Calc (Applications of Derivatives).md",
+    "AP Calculus.md",
+    "3.1 Extrema on an Interval.md",
     "Unit 4 - AP Calc (Integration).md",
     "3.6 Optimization.md",
     "3.4 Concavity and the Second Derivative Test.md",
@@ -196,8 +198,6 @@
     "global minimum.md",
     "absolute minimum.md",
     "endpoint extrema.md",
-    "2.7 Related Rates.md",
-    "2.6 Derivatives of Inverse Functions.md",
     "Untitled.canvas",
     "Psuedoscience",
     "Biological"
