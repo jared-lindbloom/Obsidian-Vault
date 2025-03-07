@@ -4,7 +4,7 @@
 [[3.4 Concavity and the Second Derivative Test]]
 [[3.6 Optimization]] (Write)
 [[3.7 Linear Approximation and Differentials]]
-[[L'Hospital's Rule]] (Write)
+[[L'Hospital's Rule]]
 
 
 
