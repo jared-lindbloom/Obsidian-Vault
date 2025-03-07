@@ -3,7 +3,7 @@
 [[3.3 Increasing and Decreasing Functions & The First Derivative Test]]
 [[3.4 Concavity and the Second Derivative Test]]
 [[3.6 Optimization]] (Write)
-[[3.7 Linear Approximation and Differentials]] (Write)
+[[3.7 Linear Approximation and Differentials]]
 [[L'Hospital's Rule]] (Write)
 
 
