@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 1 - Comp Sci 250.md",
+                "file": "School.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unit 1 - Comp Sci 250"
+              "title": "School"
             }
           }
         ],
@@ -54,8 +54,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "school",
-                "matchingCase": false,
+                "query": "School",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "72d2442772266887",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 1 - Comp Sci 250.md",
+                "file": "School.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Unit 1 - Comp Sci 250"
+              "title": "Backlinks for School"
             }
           },
           {
@@ -115,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 1 - Comp Sci 250.md",
+                "file": "School.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Unit 1 - Comp Sci 250"
+              "title": "Outgoing links from School"
             }
           },
           {
@@ -144,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 1 - Comp Sci 250.md",
+                "file": "School.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unit 1 - Comp Sci 250"
+              "title": "Outline of School"
             }
           }
         ]
@@ -172,33 +172,33 @@
   },
   "active": "faad9feb064eb9aa",
   "lastOpenFiles": [
-    "Comp Sci 250.md",
-    "School.md",
     "AP Calculus.md",
-    "Unit 4 - AP Calc (Integration).md",
-    "Unit 3 - AP Calc (Applications of Derivatives).md",
     "Unit 2 - AP Calc (Basic Derivatives).md",
-    "Unit 1 - AP Calc (Limits).md",
-    "Neuroscience Perspective.md",
-    "AP Psychology.md",
-    "U0L1 - Intro to Psychology.md",
-    "Psuedoscience/Pop Psychology.md",
-    "Biological.md",
-    "Untitled.md",
+    "School.md",
+    "3.1 Extrema on an Interval.md",
+    "Unit 3 - AP Calc (Applications of Derivatives).md",
+    "Unit 4 - AP Calc (Integration).md",
+    "3.6 Optimization.md",
+    "3.4 Concavity and the Second Derivative Test.md",
+    "3.3 Increasing and Decreasing Functions & The First Derivative Test.md",
+    "3.2 Rolle's Theorem and The Mean Value Theorem.md",
+    "Mean Value Theorem.md",
+    "Rolle's Theorem.md",
+    "Extrema.md",
+    "Relative Extrema.md",
+    "relative minimum.md",
+    "critical number.md",
+    "local minimum.md",
+    "local maximum.md",
+    "relative maximum.md",
+    "absolute maximum.md",
+    "global maximum.md",
+    "global minimum.md",
+    "absolute minimum.md",
+    "endpoint extrema.md",
+    "2.7 Related Rates.md",
+    "2.6 Derivatives of Inverse Functions.md",
     "Untitled.canvas",
-    "U0L3 - Experiments.md",
-    "U0L2 - Research Methods.md",
-    "Experiments.md",
-    "Correlational Study.md",
-    "Correlation Coefficient.md",
-    "Correlation Direction.md",
-    "Case Study.md",
-    "Naturalistic Observation.md",
-    "Cognitive biases.md",
-    "Hawthorne effect.md",
-    "Meta-Analysis.md",
-    "Self report bias.md",
-    "Evolutionary Perspective.md",
     "Psuedoscience",
     "Biological"
   ]

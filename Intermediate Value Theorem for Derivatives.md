@@ -1,0 +1,4 @@
+- Suppose that $f\left(x\right)$ is differentiable on $\left\lbrack a,b\right\rbrack$ and let $M$ be any number between $f^{\prime}\left(a\right)$ and $f^{\prime}\left(b\right)$. Then there exists a number c such that
+	- a < c < b
+	- $f^{\prime}\left(c\right)=M$
+- IVT tells us that it is possible for the function to take on the value M somewhere in the interval between a and b, but it doenst tell us where or how many times

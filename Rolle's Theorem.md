@@ -1,0 +1,1 @@
+Let *f* be continuous on the closed interval $\left\lbrack a,b\right\rbrack$ and differentiable on the open interval $\left(a,b\right)$. If $f\left(a\right)=f\left(b\right)$, then there is at least one number *c* in $\left(a,b\right)$ such that $f^{\prime}\left(c\right)=0$.

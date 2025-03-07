@@ -1,0 +1,1 @@
+Read further on [[Relative Extrema]]

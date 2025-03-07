@@ -1,0 +1,1 @@
+Let *f* be defined at *c*. If $f^{\prime}\left(c\right)=0$ or if *f* is not differentiable at *c*, then *c* is a [[critical number]] of *f*.
