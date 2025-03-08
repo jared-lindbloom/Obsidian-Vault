@@ -6,4 +6,5 @@ Senior Year classes:
 [[World Religions]] (Nothing Written here yet)
 [[AP Psychology]] (Unit 0L1-U0L2 is complete so far)
 [[AP Physics]] (Nothing Written here yet)
-[[AP Biolog]]
+[[AP Biology]]
+
