@@ -1,1 +1,1 @@
-Displacment - Straight line distance for 
+Displacment - Straight line distance for how far 
