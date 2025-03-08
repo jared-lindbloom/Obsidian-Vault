@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP Calculus.md",
+                "file": "Unit 4 - AP Calc (Integration).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AP Calculus"
+              "title": "Unit 4 - AP Calc (Integration)"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "AP Physics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "AP Physics"
             }
           }
         ],
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AP",
+                "query": "Physics",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,6 +188,10 @@
   },
   "active": "08ef8bf7f888d0c0",
   "lastOpenFiles": [
+    "U0L3 - Experiments.md",
+    "AP Psychology.md",
+    "Unit 4 - AP Calc (Integration).md",
+    "4.3 Riemann Sums.md",
     "AP Calculus.md",
     "conflict-files-obsidian-git.md",
     "constant of integration.md",
@@ -196,7 +200,6 @@
     "Antiderivative.md",
     "AP Physics.md",
     "4.1 Antiderivatives and Indefinite Integration.md",
-    "Unit 4 - AP Calc (Integration).md",
     "3.7 Linear Approximation and Differentials.md",
     "Unit 2 - AP Calc (Basic Derivatives).md",
     "Tangent Line.md",
@@ -211,9 +214,6 @@
     "Rolle's Theorem.md",
     "Extrema.md",
     "Relative Extrema.md",
-    "relative minimum.md",
-    "critical number.md",
-    "local minimum.md",
     "Untitled.canvas",
     "Psuedoscience",
     "Biological"
