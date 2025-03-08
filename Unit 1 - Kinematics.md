@@ -1,2 +1,2 @@
 Displacment - Straight line distance for how far daistance.
-Speed - How far somethin
+Speed - How far something moves
