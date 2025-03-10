@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP Calculus.md",
+                "file": "4.3 Riemann Sums.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AP Calculus"
-            }
-          },
-          {
-            "id": "08ef8bf7f888d0c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "4.3 Riemann Sums"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -186,8 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08ef8bf7f888d0c0",
+  "active": "faad9feb064eb9aa",
   "lastOpenFiles": [
+    "4.3 Riemann Sums.md",
+    "Rectangular Approximation Method.md",
+    "Definite Integrals.md",
+    "Unit 4 - AP Calc (Integration).md",
     "AP Calculus.md",
     "conflict-files-obsidian-git.md",
     "constant of integration.md",
@@ -196,7 +185,6 @@
     "Antiderivative.md",
     "AP Physics.md",
     "4.1 Antiderivatives and Indefinite Integration.md",
-    "Unit 4 - AP Calc (Integration).md",
     "3.7 Linear Approximation and Differentials.md",
     "Unit 2 - AP Calc (Basic Derivatives).md",
     "Tangent Line.md",
@@ -211,9 +199,6 @@
     "Rolle's Theorem.md",
     "Extrema.md",
     "Relative Extrema.md",
-    "relative minimum.md",
-    "critical number.md",
-    "local minimum.md",
     "Untitled.canvas",
     "Psuedoscience",
     "Biological"

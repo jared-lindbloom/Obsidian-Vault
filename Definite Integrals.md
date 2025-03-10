@@ -31,3 +31,10 @@ Evaluate $\int_1^3\left(-x^2+4x-3\right)$ using each of the following values.
 After inserting into each function using the Additive Interval Property
 $\frac{-26}{3}+16-6$
 
+-----
+**Properties of Definite Integrals**
+If *f* and *g* are continuous on the closed interval $\left\lbrack a,b\right\rbrack$ and $0\le f\left(x\right)\le g\left(x\right)$ for $a\le x\le b$, then the following properties are true.
+
+First the area of the region bounded by the graph of *f* and the x-axis (between a and b) must be non-negative.
+
+Second, this area must be less than or equal to the area of the region bounded by the graph
