@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.3 Riemann Sums.md",
+                "file": "4.4 Fundamental Theorem of Calculus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.3 Riemann Sums"
+              "title": "4.4 Fundamental Theorem of Calculus"
             }
           }
         ],
@@ -173,13 +173,17 @@
   },
   "active": "faad9feb064eb9aa",
   "lastOpenFiles": [
+    "Unit 4 - AP Calc (Integration).md",
+    "4.4 Fundamental Theorem of Calculus.md",
+    "4.3 Riemann Sums.md",
+    "Definite Integrals.md",
+    "AP Calculus.md",
+    "Unit 2 - AP Calc (Basic Derivatives).md",
+    "2.2 Basic Differentiation Rules and Rates of Change.md",
+    "Power rule.md",
     "Unit 1 - Kinematics.md",
     "AP Biology.md",
-    "4.3 Riemann Sums.md",
     "Rectangular Approximation Method.md",
-    "Definite Integrals.md",
-    "Unit 4 - AP Calc (Integration).md",
-    "AP Calculus.md",
     "conflict-files-obsidian-git.md",
     "constant of integration.md",
     "Unit 1 -.md",
@@ -188,7 +192,6 @@
     "AP Physics.md",
     "4.1 Antiderivatives and Indefinite Integration.md",
     "3.7 Linear Approximation and Differentials.md",
-    "Unit 2 - AP Calc (Basic Derivatives).md",
     "Tangent Line.md",
     "School.md",
     "Unit 3 - AP Calc (Applications of Derivatives).md",
@@ -196,9 +199,6 @@
     "3.6 Optimization.md",
     "3.4 Concavity and the Second Derivative Test.md",
     "3.3 Increasing and Decreasing Functions & The First Derivative Test.md",
-    "3.2 Rolle's Theorem and The Mean Value Theorem.md",
-    "Mean Value Theorem.md",
-    "Rolle's Theorem.md",
     "Untitled.canvas",
     "Psuedoscience",
     "Biological"
