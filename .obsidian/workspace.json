@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.4 Fundamental Theorem of Calculus.md",
+                "file": "Unit 4 - The Net Change Theorem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.4 Fundamental Theorem of Calculus"
+              "title": "Unit 4 - The Net Change Theorem"
             }
           }
         ],
@@ -173,12 +173,15 @@
   },
   "active": "faad9feb064eb9aa",
   "lastOpenFiles": [
-    "Unit 4 - AP Calc (Integration).md",
+    "AP Calculus.md",
+    "Unit 4 - The Net Change Theorem.md",
     "4.4 Fundamental Theorem of Calculus.md",
+    "Unit 4 - AP Calc (Integration).md",
+    "2.7 Related Rates.md",
+    "Unit 2 - AP Calc (Basic Derivatives).md",
+    "2.6 Derivatives of Inverse Functions.md",
     "4.3 Riemann Sums.md",
     "Definite Integrals.md",
-    "AP Calculus.md",
-    "Unit 2 - AP Calc (Basic Derivatives).md",
     "2.2 Basic Differentiation Rules and Rates of Change.md",
     "Power rule.md",
     "Unit 1 - Kinematics.md",
@@ -196,9 +199,6 @@
     "School.md",
     "Unit 3 - AP Calc (Applications of Derivatives).md",
     "3.1 Extrema on an Interval.md",
-    "3.6 Optimization.md",
-    "3.4 Concavity and the Second Derivative Test.md",
-    "3.3 Increasing and Decreasing Functions & The First Derivative Test.md",
     "Untitled.canvas",
     "Psuedoscience",
     "Biological"
